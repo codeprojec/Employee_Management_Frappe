@@ -28,3 +28,20 @@ Dashboard showing number of Employees
 Filtering by Positions
 ![image](https://github.com/user-attachments/assets/317d4f69-d6f6-4752-a492-88fcb4d7bae9)
 
+Adding Employees 
+![Screenshot from 2025-04-21 23-20-43](https://github.com/user-attachments/assets/50e74bd8-c14c-424d-b2d6-acc6388a9336)
+
+Doctypes
+
+![Screenshot from 2025-04-21 23-26-26](https://github.com/user-attachments/assets/91fb2870-7c62-44e0-9f1f-aac3fc049d7a)
+
+
+
+App installation
+# Employee Management App
+
+## Installation
+1. Clone the repository.
+2. Install Frappe and create a new site.
+3. Run `bench install-app Employee Management`
+
